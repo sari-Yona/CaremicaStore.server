@@ -1,0 +1,31 @@
+# Ignore user-specific files
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore IDE-specific files
+.vs/
+.idea/
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore package files
+*.nupkg
+*.snupkg
+packages/
+
+# Ignore generated files
+*.Generated.cs
