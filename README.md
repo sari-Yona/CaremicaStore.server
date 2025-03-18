@@ -73,6 +73,6 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For questions or support, please contact the project maintainer at [email@example.com].
+For questions or support, please contact the project maintainer at [sari100375@gmail.com].
 
 
